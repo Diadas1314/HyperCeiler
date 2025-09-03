@@ -51,7 +51,7 @@ Android 16 预期在 Xiaomi HyperOS 3.0 大部分设备发布后逐渐适配，�
 | 系统更新               | com.android.updater                |
 | Joyose             | com.xiaomi.joyose                  |
 | 小米设置               | com.xiaomi.misettings              |
-| 安全服务 (手机管家、平板管家)   | com.miui.securitycenter            |
+| 安全服务 (手机管家、平板管家)   | com.miui.securitycenter            
 | 壁纸                 | com.miui.miwallpaper               |
 | 传送门                | com.miui.contentextension          |
 | 弹幕通知               | com.xiaomi.barrage                 |
